@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029242286492",
+    "project_id": "foodieswans",
+    "storage_bucket": "foodieswans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029242286492:android:c65d06ffd67738d0939859",
+        "android_client_info": {
+          "package_name": "com.PsykoloGG.foodieswans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029242286492-61qr9rkb3l5ghtbespddismgf1narsfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Twg9E2sIROTf3AdaYtgcMkCN1iIs5nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029242286492-61qr9rkb3l5ghtbespddismgf1narsfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
